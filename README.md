@@ -1,3 +1,4 @@
+
 Railscast sm-rc244
 ===================
 
@@ -36,3 +37,4 @@ Run Server
 ```
 rails s
 ```	
+
